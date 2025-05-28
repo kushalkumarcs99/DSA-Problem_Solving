@@ -23,4 +23,16 @@ This repo contains Leetcode questions solved by Kushal.
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+## Two Pointers
+|  |
+| ------- |
+| [0277-find-the-celebrity](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0277-find-the-celebrity) |
+## Graph
+|  |
+| ------- |
+| [0277-find-the-celebrity](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0277-find-the-celebrity) |
+## Interactive
+|  |
+| ------- |
+| [0277-find-the-celebrity](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0277-find-the-celebrity) |
 <!---LeetCode Topics End-->
