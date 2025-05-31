@@ -6,6 +6,7 @@ This repo contains Leetcode questions solved by Kushal.
 ## Array
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0238-product-of-array-except-self) |
 | [0463-island-perimeter](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0463-island-perimeter) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0540-single-element-in-a-sorted-array) |
@@ -23,6 +24,7 @@ This repo contains Leetcode questions solved by Kushal.
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0200-number-of-islands](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0695-max-area-of-island) |
 ## Binary Tree
@@ -44,16 +46,19 @@ This repo contains Leetcode questions solved by Kushal.
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0695-max-area-of-island) |
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0695-max-area-of-island) |
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0695-max-area-of-island) |
 ## Binary Search
 |  |
