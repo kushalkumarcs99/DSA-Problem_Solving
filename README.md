@@ -6,6 +6,7 @@ This repo contains Leetcode questions solved by Kushal.
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0035-search-insert-position) |
 | [0200-number-of-islands](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0238-product-of-array-except-self) |
@@ -67,6 +68,7 @@ This repo contains Leetcode questions solved by Kushal.
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0069-sqrtx) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0792-binary-search) |
