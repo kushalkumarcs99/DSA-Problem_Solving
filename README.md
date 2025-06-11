@@ -16,6 +16,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0695-max-area-of-island](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0695-max-area-of-island) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0792-binary-search) |
+| [0971-shortest-bridge](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0971-shortest-bridge) |
 | [1909-buildings-with-an-ocean-view](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1909-buildings-with-an-ocean-view) |
 ## Prefix Sum
 |  |
@@ -33,6 +34,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0207-course-schedule](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0207-course-schedule) |
 | [0463-island-perimeter](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0695-max-area-of-island) |
+| [0971-shortest-bridge](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0971-shortest-bridge) |
 ## Binary Tree
 |  |
 | ------- |
@@ -57,12 +59,14 @@ This repo contains Leetcode questions solved by Kushal.
 | [0207-course-schedule](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0207-course-schedule) |
 | [0463-island-perimeter](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0695-max-area-of-island) |
+| [0971-shortest-bridge](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0971-shortest-bridge) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0695-max-area-of-island) |
+| [0971-shortest-bridge](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0971-shortest-bridge) |
 ## Union Find
 |  |
 | ------- |
