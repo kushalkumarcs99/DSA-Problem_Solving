@@ -54,6 +54,7 @@ This repo contains Leetcode questions solved by Kushal.
 | ------- |
 | [0277-find-the-celebrity](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0277-find-the-celebrity) |
 | [0647-palindromic-substrings](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0647-palindromic-substrings) |
+| [1894-merge-strings-alternately](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1894-merge-strings-alternately) |
 ## Graph
 |  |
 | ------- |
@@ -134,6 +135,7 @@ This repo contains Leetcode questions solved by Kushal.
 |  |
 | ------- |
 | [0647-palindromic-substrings](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0647-palindromic-substrings) |
+| [1894-merge-strings-alternately](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1894-merge-strings-alternately) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Counting
 |  |
