@@ -7,6 +7,7 @@ This repo contains Leetcode questions solved by Kushal.
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -111,6 +112,7 @@ This repo contains Leetcode questions solved by Kushal.
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0219-contains-duplicate-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -137,6 +139,7 @@ This repo contains Leetcode questions solved by Kushal.
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0049-group-anagrams) |
 | [0647-palindromic-substrings](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0647-palindromic-substrings) |
 | [1894-merge-strings-alternately](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1894-merge-strings-alternately) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -144,4 +147,8 @@ This repo contains Leetcode questions solved by Kushal.
 |  |
 | ------- |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
