@@ -12,6 +12,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0200-number-of-islands) |
@@ -101,6 +102,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0069-sqrtx](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0745-find-smallest-letter-greater-than-target) |
