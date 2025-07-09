@@ -163,4 +163,8 @@ This repo contains Leetcode questions solved by Kushal.
 |  |
 | ------- |
 | [0271-encode-and-decode-strings](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0271-encode-and-decode-strings) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
