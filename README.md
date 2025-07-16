@@ -6,6 +6,7 @@ This repo contains Leetcode questions solved by Kushal.
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0078-subsets) |
@@ -59,6 +60,7 @@ This repo contains Leetcode questions solved by Kushal.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0277-find-the-celebrity](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0277-find-the-celebrity) |
 | [0647-palindromic-substrings](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0647-palindromic-substrings) |
@@ -187,4 +189,8 @@ This repo contains Leetcode questions solved by Kushal.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0070-climbing-stairs) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
