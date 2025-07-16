@@ -142,6 +142,7 @@ This repo contains Leetcode questions solved by Kushal.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0020-valid-parentheses) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1909-buildings-with-an-ocean-view](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1909-buildings-with-an-ocean-view) |
 ## Monotonic Stack
@@ -152,6 +153,7 @@ This repo contains Leetcode questions solved by Kushal.
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0049-group-anagrams) |
 | [0271-encode-and-decode-strings](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0271-encode-and-decode-strings) |
