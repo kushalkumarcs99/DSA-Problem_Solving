@@ -49,6 +49,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0207-course-schedule](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0463-island-perimeter) |
+| [0547-number-of-provinces](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0695-max-area-of-island) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0971-shortest-bridge](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0971-shortest-bridge) |
@@ -71,6 +72,7 @@ This repo contains Leetcode questions solved by Kushal.
 | ------- |
 | [0207-course-schedule](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0207-course-schedule) |
 | [0277-find-the-celebrity](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0277-find-the-celebrity) |
+| [0547-number-of-provinces](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0547-number-of-provinces) |
 ## Interactive
 |  |
 | ------- |
@@ -82,6 +84,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0207-course-schedule](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0463-island-perimeter) |
+| [0547-number-of-provinces](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0695-max-area-of-island) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0971-shortest-bridge](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0971-shortest-bridge) |
@@ -98,6 +101,7 @@ This repo contains Leetcode questions solved by Kushal.
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0695-max-area-of-island) |
 ## Binary Search
 |  |
