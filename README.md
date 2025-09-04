@@ -20,6 +20,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0238-product-of-array-except-self) |
 | [0271-encode-and-decode-strings](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0271-encode-and-decode-strings) |
@@ -147,6 +148,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0128-longest-consecutive-sequence) |
+| [0217-contains-duplicate](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0219-contains-duplicate-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Sliding Window
@@ -192,6 +194,7 @@ This repo contains Leetcode questions solved by Kushal.
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0217-contains-duplicate) |
 ## Design
 |  |
 | ------- |
