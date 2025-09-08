@@ -25,6 +25,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0238-product-of-array-except-self](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0238-product-of-array-except-self) |
 | [0271-encode-and-decode-strings](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0271-encode-and-decode-strings) |
 | [0286-walls-and-gates](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0286-walls-and-gates) |
+| [0347-top-k-frequent-elements](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0347-top-k-frequent-elements) |
 | [0463-island-perimeter](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0463-island-perimeter) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0695-max-area-of-island](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0695-max-area-of-island) |
@@ -151,6 +152,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0128-longest-consecutive-sequence](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0347-top-k-frequent-elements) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Sliding Window
 |  |
@@ -192,12 +194,14 @@ This repo contains Leetcode questions solved by Kushal.
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0347-top-k-frequent-elements) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0347-top-k-frequent-elements) |
 ## Design
 |  |
 | ------- |
@@ -225,4 +229,20 @@ This repo contains Leetcode questions solved by Kushal.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0014-longest-common-prefix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
