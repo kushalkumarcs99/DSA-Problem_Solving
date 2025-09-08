@@ -145,6 +145,7 @@ This repo contains Leetcode questions solved by Kushal.
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0128-longest-consecutive-sequence) |
@@ -154,6 +155,7 @@ This repo contains Leetcode questions solved by Kushal.
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0219-contains-duplicate-ii) |
 ## Dynamic Programming
 |  |
@@ -177,6 +179,7 @@ This repo contains Leetcode questions solved by Kushal.
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0020-valid-parentheses) |
