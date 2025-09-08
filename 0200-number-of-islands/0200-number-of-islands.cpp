@@ -1,41 +1,41 @@
 class Solution {
 public:
-    void DFS(int row, int column, vector<vector<char>>& grid, vector<vector<bool>>& visited)
+    void dfs(int row, int column, vector<vector<char>>& grid,vector<vector<bool>>& visited)
     {
         visited[row][column] = true;
         int rows = grid.size();
         int columns = grid[0].size();
-
-        vector<int> dr = {-1,1,0,0};
-        vector<int> dc = {0,0,-1,1};
+        vector<pair<int,int>> directions = {{-1,0},{1,0},{0,-1},{0,1}};
 
         for(int i=0;i<4;i++)
         {
-            int nrow = row + dr[i];
-            int ncol = column + dc[i];
+            int nrow = row + directions[i].first;
+            int ncol = column + directions[i].second;
             if(nrow >= 0 && nrow < rows && ncol >= 0 && ncol < columns && 
             grid[nrow][ncol]=='1' && !visited[nrow][ncol])
             {
-                DFS(nrow, ncol, grid, visited);
+                dfs(nrow, ncol, grid, visited);
             }
         }
+
     }
     int numIslands(vector<vector<char>>& grid) {
-        int rows = grid.size();
-        int columns = grid[0].size();
-        vector<vector<bool>> visited(rows,vector<bool>(columns,false));
-        int numberOfIslands = 0;
-        for(int row = 0;row < rows;row++)
+        int n = grid.size();
+        int m = grid[0].size();
+
+        vector<vector<bool>> visited(n, vector<bool>(m,false));
+        int result = 0;
+        for(int i=0;i<n;i++)
         {
-            for(int column = 0;column < columns;column++)
+            for(int j=0;j<m;j++)
             {
-                if(grid[row][column] == '1' && !visited[row][column])
+                if(grid[i][j] == '1' and visited[i][j]==false)
                 {
-                    numberOfIslands++;
-                    DFS(row,column,grid,visited);
+                    dfs(i,j,grid,visited);
+                    result++;
                 }
             }
         }
-        return numberOfIslands;
+        return result;
     }
 };
