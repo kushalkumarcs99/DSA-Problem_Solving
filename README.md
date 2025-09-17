@@ -10,6 +10,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0014-longest-common-prefix](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -102,6 +103,7 @@ This repo contains Leetcode questions solved by Kushal.
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0054-spiral-matrix) |
 | [0130-surrounded-regions](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0200-number-of-islands) |
 | [0286-walls-and-gates](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0286-walls-and-gates) |
@@ -245,4 +247,8 @@ This repo contains Leetcode questions solved by Kushal.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0347-top-k-frequent-elements) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
