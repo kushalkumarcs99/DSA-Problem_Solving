@@ -16,6 +16,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0130-surrounded-regions) |
+| [0139-word-break](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -157,6 +158,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0347-top-k-frequent-elements) |
@@ -173,6 +175,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0022-generate-parentheses](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0198-house-robber) |
 | [0647-palindromic-substrings](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0647-palindromic-substrings) |
 | [1117-as-far-from-land-as-possible](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1117-as-far-from-land-as-possible) |
@@ -195,6 +198,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0020-valid-parentheses](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0049-group-anagrams) |
+| [0139-word-break](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0139-word-break) |
 | [0271-encode-and-decode-strings](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0271-encode-and-decode-strings) |
 | [0647-palindromic-substrings](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0647-palindromic-substrings) |
 | [1894-merge-strings-alternately](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1894-merge-strings-alternately) |
@@ -230,6 +234,7 @@ This repo contains Leetcode questions solved by Kushal.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0139-word-break) |
 ## Greedy
 |  |
 | ------- |
@@ -238,6 +243,7 @@ This repo contains Leetcode questions solved by Kushal.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0139-word-break) |
 ## Divide and Conquer
 |  |
 | ------- |
