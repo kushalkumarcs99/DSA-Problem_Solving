@@ -1,22 +1,20 @@
 class Solution {
 public:
-    int robDPHelper(int i, vector<int>& nums, vector<int>& dp)
+    int solve(int index,vector<int>& nums, vector<int> &dp)
     {
-        if(i==0) return nums[0];
-        if(i<0) return 0;
-
-        if(dp[i]!=-1) return dp[i];
-
-        int include = nums[i] + robDPHelper(i-2,nums,dp);
-        int notInclude = robDPHelper(i-1,nums,dp);
-
-        dp[i] = max(include, notInclude);
-
-        return dp[i];
+        if(index >= nums.size())
+        {
+            return 0;
+        }
+        if(dp[index] != -1) return dp[index];
+        int pick = nums[index] + solve(index+2,nums,dp);
+        int notPick = 0 + solve(index+1,nums,dp);
+        return dp[index] = max(pick, notPick);
     }
     int rob(vector<int>& nums) {
         int n = nums.size();
         vector<int> dp(n,-1);
-        return robDPHelper(n-1,nums,dp);
+
+        return solve(0,nums,dp);
     }
 };
