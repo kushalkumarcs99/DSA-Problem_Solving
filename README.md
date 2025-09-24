@@ -8,6 +8,7 @@ This repo contains Leetcode questions solved by Kushal.
 | ------- |
 | [0011-container-with-most-water](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0014-longest-common-prefix) |
+| [0033-search-in-rotated-sorted-array](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0054-spiral-matrix) |
@@ -129,6 +130,7 @@ This repo contains Leetcode questions solved by Kushal.
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0081-search-in-rotated-sorted-array-ii) |
