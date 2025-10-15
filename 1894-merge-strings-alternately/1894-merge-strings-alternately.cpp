@@ -4,21 +4,12 @@ public:
         int n = word1.size();
         int m = word2.size();
 
-        string result;
-        int  i = 0;
-
-        while(i<n || i<m)
-        {
-            if(i<n)
-            {
-                result += word1[i];
-            }
-
-            if(i<m)
-            {
-                result += word2[i];
-            }
-            i++;
+        int i = 0, j = 0;
+        int flag = true;
+        string result = "";
+         while (i < n || j < m) {
+            if (i < n) result += word1[i++];
+            if (j < m) result += word2[j++];
         }
         return result;
     }
