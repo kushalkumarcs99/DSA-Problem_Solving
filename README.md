@@ -147,6 +147,7 @@ This repo contains Leetcode questions solved by Kushal.
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1013-fibonacci-number) |
@@ -182,6 +183,7 @@ This repo contains Leetcode questions solved by Kushal.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -281,4 +283,8 @@ This repo contains Leetcode questions solved by Kushal.
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1013-fibonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
