@@ -1,35 +1,32 @@
 class Solution {
 public:
-    bool canPartitionHelper(int index, vector<int> &nums, int target)
-    {
-        if(target == 0)
-        {
-            return true;
-        }
-        if(index == 0)
-        {
-            return nums[0] == target;
-        }
-        //Exclude case
-        bool notConsider = canPartitionHelper(index-1,nums, target);
+    int n;
+    vector<vector<int>> memo; // -1 unknown, 0 false, 1 true
 
-        //Include case
+    bool canPartitionHelper(int index, const vector<int> &nums, int target) {
+        if (target == 0) return true;
+        if (index == 0) return nums[0] == target;
+        int &m = memo[index][target];
+        if (m != -1) return m == 1;
+
+        // Exclude
+        bool notConsider = canPartitionHelper(index - 1, nums, target);
+
+        // Include (only if nums[index] <= target)
         bool consider = false;
-        if(nums[index] >= target)
-        consider = canPartitionHelper(index-1,nums, target - nums[index]);
-        return notConsider || consider;
+        if (nums[index] <= target)
+            consider = canPartitionHelper(index - 1, nums, target - nums[index]);
+
+        return m = (notConsider || consider) ? 1 : 0;
     }
+
     bool canPartition(vector<int>& nums) {
-        int n = nums.size();
-        int arraySum = 0;
-        for(int element : nums)
-        {
-            arraySum += element;
-        }
-        if(arraySum % 2 != 0)
-        {
-            return false;
-        }
-        return canPartitionHelper(n-1,nums,arraySum/2);
+        n = nums.size();
+        int sum = 0;
+        for (int x : nums) sum += x;
+        if (sum % 2 != 0) return false;
+        int target = sum / 2;
+        memo.assign(n, vector<int>(target + 1, -1));
+        return canPartitionHelper(n - 1, nums, target);
     }
 };
