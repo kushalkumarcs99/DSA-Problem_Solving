@@ -203,6 +203,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0647-palindromic-substrings](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0647-palindromic-substrings) |
 | [1013-fibonacci-number](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1013-fibonacci-number) |
 | [1117-as-far-from-land-as-possible](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1117-as-far-from-land-as-possible) |
+| [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
 ## Stack
 |  |
 | ------- |
@@ -263,6 +264,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0139-word-break](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1013-fibonacci-number](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1013-fibonacci-number) |
+| [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
 ## Greedy
 |  |
 | ------- |
