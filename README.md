@@ -37,6 +37,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0745-find-smallest-letter-greater-than-target](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0792-binary-search) |
 | [0971-shortest-bridge](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0971-shortest-bridge) |
+| [1073-number-of-enclaves](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1073-number-of-enclaves) |
 | [1117-as-far-from-land-as-possible](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1117-as-far-from-land-as-possible) |
 | [1138-grumpy-bookstore-owner](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1138-grumpy-bookstore-owner) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -72,6 +73,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0695-max-area-of-island](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0695-max-area-of-island) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0971-shortest-bridge](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0971-shortest-bridge) |
+| [1073-number-of-enclaves](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1073-number-of-enclaves) |
 | [1117-as-far-from-land-as-possible](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1117-as-far-from-land-as-possible) |
 | [3825-apply-substitutions](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/3825-apply-substitutions) |
 ## Binary Tree
@@ -114,6 +116,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0695-max-area-of-island](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0695-max-area-of-island) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0971-shortest-bridge](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0971-shortest-bridge) |
+| [1073-number-of-enclaves](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1073-number-of-enclaves) |
 | [3825-apply-substitutions](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/3825-apply-substitutions) |
 ## Matrix
 |  |
@@ -126,6 +129,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0463-island-perimeter](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0695-max-area-of-island) |
 | [0971-shortest-bridge](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0971-shortest-bridge) |
+| [1073-number-of-enclaves](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1073-number-of-enclaves) |
 | [1117-as-far-from-land-as-possible](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1117-as-far-from-land-as-possible) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Union Find
@@ -137,6 +141,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0547-number-of-provinces](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0695-max-area-of-island) |
+| [1073-number-of-enclaves](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1073-number-of-enclaves) |
 ## Binary Search
 |  |
 | ------- |
