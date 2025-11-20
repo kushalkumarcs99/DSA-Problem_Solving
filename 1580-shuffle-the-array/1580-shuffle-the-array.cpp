@@ -2,7 +2,6 @@ class Solution {
 public:
     vector<int> shuffle(vector<int>& nums, int n) {
         int i = 0, j = n;
-        int k = 0;
         vector<int> result;
         while(i < n)
         {
