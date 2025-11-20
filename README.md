@@ -44,6 +44,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [1138-grumpy-bookstore-owner](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1138-grumpy-bookstore-owner) |
 | [1380-number-of-closed-islands](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1380-number-of-closed-islands) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1580-shuffle-the-array](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1580-shuffle-the-array) |
 | [1909-buildings-with-an-ocean-view](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1909-buildings-with-an-ocean-view) |
 | [2058-concatenation-of-array](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/2058-concatenation-of-array) |
 | [3463-alternating-groups-i](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/3463-alternating-groups-i) |
