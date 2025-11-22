@@ -57,6 +57,7 @@ This repo contains Leetcode questions solved by Kushal.
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0096-unique-binary-search-trees) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0113-path-sum-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0113-path-sum-ii) |
 | [0226-invert-binary-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0226-invert-binary-tree) |
@@ -89,6 +90,7 @@ This repo contains Leetcode questions solved by Kushal.
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0096-unique-binary-search-trees) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0113-path-sum-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0113-path-sum-ii) |
 | [0226-invert-binary-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0226-invert-binary-tree) |
@@ -181,6 +183,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0062-unique-paths](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0096-unique-binary-search-trees) |
 | [1013-fibonacci-number](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1013-fibonacci-number) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
@@ -220,6 +223,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0062-unique-paths](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0091-decode-ways) |
+| [0096-unique-binary-search-trees](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0198-house-robber) |
@@ -329,4 +333,8 @@ This repo contains Leetcode questions solved by Kushal.
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0062-unique-paths) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
