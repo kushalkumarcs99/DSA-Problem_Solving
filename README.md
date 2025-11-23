@@ -64,6 +64,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0764-n-ary-tree-level-order-traversal](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [1382-balance-a-binary-search-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -95,6 +96,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0113-path-sum-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0113-path-sum-ii) |
 | [0226-invert-binary-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0226-invert-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [1382-balance-a-binary-search-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1382-balance-a-binary-search-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -135,6 +137,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0971-shortest-bridge](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0971-shortest-bridge) |
 | [1073-number-of-enclaves](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1380-number-of-closed-islands) |
+| [1382-balance-a-binary-search-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1382-balance-a-binary-search-tree) |
 | [3825-apply-substitutions](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/3825-apply-substitutions) |
 ## Matrix
 |  |
@@ -299,6 +302,7 @@ This repo contains Leetcode questions solved by Kushal.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0011-container-with-most-water) |
+| [1382-balance-a-binary-search-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1382-balance-a-binary-search-tree) |
 ## Trie
 |  |
 | ------- |
@@ -308,6 +312,7 @@ This repo contains Leetcode questions solved by Kushal.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0347-top-k-frequent-elements) |
+| [1382-balance-a-binary-search-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1382-balance-a-binary-search-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -337,4 +342,5 @@ This repo contains Leetcode questions solved by Kushal.
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0096-unique-binary-search-trees) |
+| [1382-balance-a-binary-search-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
