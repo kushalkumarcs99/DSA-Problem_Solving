@@ -10,6 +10,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0014-longest-common-prefix](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0035-search-insert-position) |
+| [0040-combination-sum-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0078-subsets) |
@@ -293,6 +294,7 @@ This repo contains Leetcode questions solved by Kushal.
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0022-generate-parentheses) |
+| [0040-combination-sum-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0113-path-sum-ii) |
