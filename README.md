@@ -245,6 +245,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0647-palindromic-substrings](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0647-palindromic-substrings) |
 | [1013-fibonacci-number](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1013-fibonacci-number) |
 | [1117-as-far-from-land-as-possible](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1117-as-far-from-land-as-possible) |
+| [1143-longest-common-subsequence](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1143-longest-common-subsequence) |
 | [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
 ## Stack
 |  |
@@ -274,6 +275,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0433-minimum-genetic-mutation](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0433-minimum-genetic-mutation) |
 | [0647-palindromic-substrings](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0680-valid-palindrome-ii) |
+| [1143-longest-common-subsequence](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1143-longest-common-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1894-merge-strings-alternately) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3825-apply-substitutions](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/3825-apply-substitutions) |
