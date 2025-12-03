@@ -1,23 +1,18 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-        int n = s.size();
-        unordered_map<char, int> hash;  // stores frequency of chars
-        int left = 0, result = 0;
+        unordered_map<char, int> lastSeen; // stores last index of character
+        int left = 0, maxLen = 0;
 
-        for (int right = 0; right < n; right++) {
-            hash[s[right]]++;
-
-            // if duplicate found, shrink window from left
-            while (hash[s[right]] > 1) {
-                hash[s[left]]--;
-                left++;
+        for (int right = 0; right < s.size(); right++) {
+            char c = s[right];
+            if (lastSeen.find(c) != lastSeen.end() && lastSeen[c] >= left) {
+                // duplicate inside the window
+                left = lastSeen[c] + 1;
             }
-
-            // update result with current window size
-            result = max(result, right - left + 1);
+            lastSeen[c] = right;
+            maxLen = max(maxLen, right - left + 1);
         }
-
-        return result;
+        return maxLen;
     }
 };
