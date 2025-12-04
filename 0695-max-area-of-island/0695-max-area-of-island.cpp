@@ -1,55 +1,42 @@
 class Solution {
 public:
-int bfs(int row, int col, vector<vector<int>>& grid, vector<vector<int>>& vis)
+    int dfsHelper(int row, int column, vector<vector<int>>& grid)
     {
-        vis[row][col] = 1;
-        queue<pair<int, int>> q;
-        int areaOfThisIsland = 1;
+        grid[row][column] = 0;
+        int rows = grid.size();
+        int columns = grid[0].size();
 
-        q.push({row, col});
-        int n = grid.size();
-        int m = grid[0].size();
+        int currentArea = 1;
 
-        while(!q.empty())
+        vector<pair<int, int>> directions = {{-1,0},{1,0},{0,-1},{0,1}};
+
+        for(int i=0;i<4;i++)
         {
-            int row = q.front().first;
-            int col = q.front().second;
-            q.pop();
+            int nrow = row + directions[i].first;
+            int ncol = column + directions[i].second;
 
-            //traverse in the all directions(4) & make the neighbors visited
-
-            int delrow[] = {-1, 0, 1, 0}; // Up, Right, Down, Left
-            int delcol[] = {0, 1, 0, -1};
-
-            for (int i = 0; i < 4; i++) { // Loop over 4 possible directions
-                int nrow = row + delrow[i];
-                int ncol = col + delcol[i];
-
-                if (nrow >= 0 && nrow < n && ncol >= 0 && ncol < m &&
-                grid[nrow][ncol] == 1 && !vis[nrow][ncol]) {
-                    vis[nrow][ncol] = 1;
-                    q.push({nrow, ncol});
-                    areaOfThisIsland++;
-                }
+            if(nrow >= 0 && nrow < rows && ncol >= 0 && ncol < columns && grid[nrow][ncol]==1)
+            {
+                currentArea += dfsHelper(nrow, ncol, grid);
             }
         }
-        return areaOfThisIsland;
+
+        return currentArea;
     }
     int maxAreaOfIsland(vector<vector<int>>& grid) {
-        int n = grid.size();
-        int m = grid[0].size();
+        int rows = grid.size();
+        int columns = grid[0].size();
 
-        vector<vector<int>> vis(n, vector<int>(m,0));
         int maxAreaOfIsland = 0;
 
-        for(int i=0;i<n;i++)
+        for(int i=0;i<rows;i++)
         {
-            for(int j=0;j<m;j++)
+            for(int j=0;j<columns;j++)
             {
-                if(grid[i][j] == 1 and !vis[i][j])
+                if(grid[i][j] == 1)
                 {
-                    int areaOfIsland = bfs(i,j,grid,vis);
-                    maxAreaOfIsland = max(maxAreaOfIsland, areaOfIsland);
+                    int currentIslandArea = dfsHelper(i,j, grid);
+                    maxAreaOfIsland = max(maxAreaOfIsland, currentIslandArea);
                 }
             }
         }
