@@ -12,19 +12,19 @@
 class Solution {
 public:
     TreeNode* invertTree(TreeNode* root) {
-        return Invert(root);
-    }
-    
-    TreeNode* Invert (TreeNode* node)
-    {
-        if(node  == NULL) return NULL;
-        
-        if(node -> left == NULL && node -> right == NULL) return node;
-        
-        TreeNode* left = Invert(node -> left);
-        TreeNode* right = Invert (node -> right);
-        node -> right= left;
-        node -> left = right;
-        return node;
+        if(!root) return nullptr;
+        queue<TreeNode*> q;
+        q.push(root);
+
+        while(!q.empty()){
+            TreeNode* currNode = q.front();
+            q.pop();
+
+            swap(currNode->left, currNode->right);
+
+            if(currNode->left) q.push(currNode->left);
+            if(currNode->right) q.push(currNode->right);
+        }
+        return root;
     }
 };
