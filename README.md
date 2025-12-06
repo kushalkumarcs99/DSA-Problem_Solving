@@ -84,6 +84,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0133-clone-graph](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0226-invert-binary-tree) |
 | [0286-walls-and-gates](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0286-walls-and-gates) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
@@ -132,6 +133,7 @@ This repo contains Leetcode questions solved by Kushal.
 | ------- |
 | [0133-clone-graph](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0210-course-schedule-ii) |
 | [0277-find-the-celebrity](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0277-find-the-celebrity) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -150,6 +152,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0133-clone-graph](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0226-invert-binary-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -223,6 +226,7 @@ This repo contains Leetcode questions solved by Kushal.
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [3825-apply-substitutions](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/3825-apply-substitutions) |
 ## Hash Table
