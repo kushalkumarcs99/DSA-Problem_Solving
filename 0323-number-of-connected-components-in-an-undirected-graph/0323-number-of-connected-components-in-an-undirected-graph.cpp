@@ -1,35 +1,45 @@
 class Solution {
 public:
-    void dfs(int node, vector<vector<int>>& adj, vector<bool>& visited)
-    {
-        visited[node] = true;
-        for(int neighbor : adj[node])
-        {
-            if(!visited[neighbor])
-            {
-                dfs(neighbor,adj,visited);
-            }
-        }
+    int find(vector<int> &parent, int x) {
+        if (parent[x] != x)
+            parent[x] = find(parent, parent[x]); // path compression
+        return parent[x];
     }
+
+    int combine(vector<int> &parent, vector<int> &rank, int a, int b) {
+        a = find(parent, a);
+        b = find(parent, b);
+
+        if (a == b) return 0;
+
+        // union by rank
+        if (rank[a] > rank[b]) {
+            parent[b] = a;
+        }
+        else if (rank[b] > rank[a]) {
+            parent[a] = b;
+        }
+        else {
+            parent[b] = a; 
+            rank[a]++;     // increase rank when equal
+        }
+
+        return 1;
+    }
+
     int countComponents(int n, vector<vector<int>>& edges) {
-        vector<vector<int>> adj(n);
-        vector<bool> visited(n, false);
+        vector<int> parent(n), rank(n, 0);
 
-        for(auto& edge : edges)
-        {
-            adj[edge[0]].push_back(edge[1]);
-            adj[edge[1]].push_back(edge[0]);
+        for (int i = 0; i < n; i++) {
+            parent[i] = i;
         }
 
-        int components = 0;
-        for(int i=0;i<n;i++)
-        {
-            if(!visited[i])
-            {
-                dfs(i,adj,visited);
-                components++;
-            }
+        int components = n;
+
+        for (auto &e : edges) {
+            components -= combine(parent, rank, e[0], e[1]);
         }
+
         return components;
     }
 };
