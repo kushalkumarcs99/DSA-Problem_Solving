@@ -13,6 +13,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0035-search-insert-position](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -272,6 +273,7 @@ This repo contains Leetcode questions solved by Kushal.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0091-decode-ways) |
@@ -370,6 +372,7 @@ This repo contains Leetcode questions solved by Kushal.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0347-top-k-frequent-elements) |
