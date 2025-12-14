@@ -75,6 +75,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0113-path-sum-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0113-path-sum-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0226-invert-binary-tree) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -87,6 +88,7 @@ This repo contains Leetcode questions solved by Kushal.
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0130-surrounded-regions](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0200-number-of-islands) |
@@ -120,6 +122,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0113-path-sum-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0113-path-sum-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0226-invert-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1382-balance-a-binary-search-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1382-balance-a-binary-search-tree) |
@@ -157,6 +160,7 @@ This repo contains Leetcode questions solved by Kushal.
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0113-path-sum-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0130-surrounded-regions](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0200-number-of-islands) |
@@ -419,4 +423,8 @@ This repo contains Leetcode questions solved by Kushal.
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0096-unique-binary-search-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1382-balance-a-binary-search-tree) |
+## Linked List
+|  |
+| ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0116-populating-next-right-pointers-in-each-node) |
 <!---LeetCode Topics End-->
