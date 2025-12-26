@@ -70,6 +70,7 @@ This repo contains Leetcode questions solved by Kushal.
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0096-unique-binary-search-trees) |
+| [0100-same-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -88,6 +89,7 @@ This repo contains Leetcode questions solved by Kushal.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -119,6 +121,7 @@ This repo contains Leetcode questions solved by Kushal.
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0096-unique-binary-search-trees) |
+| [0100-same-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -161,6 +164,7 @@ This repo contains Leetcode questions solved by Kushal.
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0116-populating-next-right-pointers-in-each-node) |
