@@ -15,6 +15,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0049-group-anagrams](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -243,6 +244,7 @@ This repo contains Leetcode questions solved by Kushal.
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0096-unique-binary-search-trees) |
