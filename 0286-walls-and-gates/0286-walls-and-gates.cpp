@@ -39,7 +39,7 @@ public:
 
                     if(i >=0 && i<n && j>=0 && j<m && rooms[i][j]==emptyRoom)
                     {
-                        rooms[i][j] = distance;
+                        rooms[i][j] = rooms[x][y] + 1;
                         q.push({i,j});
                     }
                 }
