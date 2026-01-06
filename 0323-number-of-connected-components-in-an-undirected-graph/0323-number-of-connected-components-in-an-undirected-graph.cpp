@@ -1,45 +1,33 @@
 class Solution {
 public:
-    int find(vector<int> &parent, int x) {
-        if (parent[x] != x)
-            parent[x] = find(parent, parent[x]); // path compression
-        return parent[x];
+    void dfs(int node, vector<int>& vis, vector<vector<int>>& adj) {
+        vis[node] = 1;
+        for (int neigh : adj[node]) {
+            if (!vis[neigh]) {
+                dfs(neigh, vis, adj);
+            }
+        }
     }
-
-    int combine(vector<int> &parent, vector<int> &rank, int a, int b) {
-        a = find(parent, a);
-        b = find(parent, b);
-
-        if (a == b) return 0;
-
-        // union by rank
-        if (rank[a] > rank[b]) {
-            parent[b] = a;
-        }
-        else if (rank[b] > rank[a]) {
-            parent[a] = b;
-        }
-        else {
-            parent[b] = a; 
-            rank[a]++;     // increase rank when equal
-        }
-
-        return 1;
-    }
-
     int countComponents(int n, vector<vector<int>>& edges) {
-        vector<int> parent(n), rank(n, 0);
-
-        for (int i = 0; i < n; i++) {
-            parent[i] = i;
-        }
-
-        int components = n;
-
+        vector<vector<int>> adj(n);
+        
+        // Build adjacency list
         for (auto &e : edges) {
-            components -= combine(parent, rank, e[0], e[1]);
+            adj[e[0]].push_back(e[1]);
+            adj[e[1]].push_back(e[0]);
         }
-
+        
+        vector<int> vis(n, 0);
+        int components = 0;
+        
+        // Count connected components
+        for (int i = 0; i < n; i++) {
+            if (!vis[i]) {
+                components++;
+                dfs(i, vis, adj);
+            }
+        }
+        
         return components;
     }
 };
