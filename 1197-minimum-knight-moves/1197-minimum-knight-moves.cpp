@@ -8,7 +8,7 @@ public:
         queue<pair<int,int>> q;
 
         q.push({0, 0});
-        visited[300][300] = true;
+        visited[0][0] = true;
 
         int moves = 0;
 
