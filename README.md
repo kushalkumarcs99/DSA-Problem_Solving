@@ -52,6 +52,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0733-flood-fill) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0746-min-cost-climbing-stairs](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0746-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0792-binary-search) |
 | [0971-shortest-bridge](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0971-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0994-rotting-oranges) |
@@ -324,6 +325,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0416-partition-equal-subset-sum](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0416-partition-equal-subset-sum) |
 | [0647-palindromic-substrings](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0647-palindromic-substrings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0746-min-cost-climbing-stairs](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0746-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1013-fibonacci-number) |
 | [1117-as-far-from-land-as-possible](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1117-as-far-from-land-as-possible) |
 | [1143-longest-common-subsequence](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1143-longest-common-subsequence) |
