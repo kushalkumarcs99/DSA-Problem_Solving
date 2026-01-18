@@ -1,15 +1,22 @@
 class Solution {
 public:
     int maxProduct(vector<int>& nums) {
-        int numsLength = nums.size();
-        int result = INT_MIN;
-        int maxProductTillHere = 1;
+        int n = nums.size();
+        int ans = nums[0];
 
-        for(int  i = 0;i<numsLength;i++)
-        {
-            maxProductTillHere *= nums[i];
-            result = max(result, maxProductTillHere);
+        int maxHere = nums[0];
+        int minHere = nums[0];
+
+        for(int i = 1; i < n; i++) {
+            int x = nums[i];
+
+            if(x < 0) swap(maxHere, minHere);
+
+            maxHere = max(x, maxHere * x);
+            minHere = min(x, minHere * x);
+
+            ans = max(ans, maxHere);
         }
-        return result;
+        return ans;
     }
 };
