@@ -79,6 +79,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0096-unique-binary-search-trees](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -99,6 +100,7 @@ This repo contains Leetcode questions solved by Kushal.
 | ------- |
 | [0100-same-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -135,6 +137,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0096-unique-binary-search-trees](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
