@@ -89,6 +89,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0226-invert-binary-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0226-invert-binary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0700-search-in-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
@@ -146,6 +147,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0226-invert-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0700-search-in-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1382-balance-a-binary-search-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1382-balance-a-binary-search-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -392,6 +394,7 @@ This repo contains Leetcode questions solved by Kushal.
 |  |
 | ------- |
 | [0271-encode-and-decode-strings](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0271-encode-and-decode-strings) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Backtracking
 |  |
 | ------- |
@@ -441,6 +444,7 @@ This repo contains Leetcode questions solved by Kushal.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0347-top-k-frequent-elements) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -468,6 +472,7 @@ This repo contains Leetcode questions solved by Kushal.
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0096-unique-binary-search-trees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0700-search-in-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1382-balance-a-binary-search-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1382-balance-a-binary-search-tree) |
 ## Linked List
 |  |
@@ -477,4 +482,8 @@ This repo contains Leetcode questions solved by Kushal.
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
