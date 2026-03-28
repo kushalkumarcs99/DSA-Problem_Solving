@@ -69,6 +69,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [3463-alternating-groups-i](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/3463-alternating-groups-i) |
 | [3483-alternating-groups-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/3483-alternating-groups-ii) |
 | [3825-apply-substitutions](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/3825-apply-substitutions) |
+| [3875-construct-uniform-parity-array-i](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/3875-construct-uniform-parity-array-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -269,6 +270,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [1013-fibonacci-number](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1013-fibonacci-number) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3875-construct-uniform-parity-array-i](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/3875-construct-uniform-parity-array-i) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## Topological Sort
 |  |
