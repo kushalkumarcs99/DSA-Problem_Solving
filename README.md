@@ -70,6 +70,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [3483-alternating-groups-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/3483-alternating-groups-ii) |
 | [3825-apply-substitutions](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/3825-apply-substitutions) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/3875-construct-uniform-parity-array-i) |
+| [3877-minimum-removals-to-achieve-target-xor](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -342,6 +343,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [1117-as-far-from-land-as-possible](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1117-as-far-from-land-as-possible) |
 | [1143-longest-common-subsequence](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1143-longest-common-subsequence) |
 | [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
+| [3877-minimum-removals-to-achieve-target-xor](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 ## Stack
 |  |
 | ------- |
@@ -413,6 +415,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0078-subsets](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0078-subsets) |
 | [0266-palindrome-permutation](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0266-palindrome-permutation) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [3877-minimum-removals-to-achieve-target-xor](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 ## Memoization
 |  |
 | ------- |
