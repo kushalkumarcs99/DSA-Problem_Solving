@@ -69,6 +69,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [3463-alternating-groups-i](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/3463-alternating-groups-i) |
 | [3483-alternating-groups-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/3483-alternating-groups-ii) |
 | [3825-apply-substitutions](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/3825-apply-substitutions) |
+| [3861-minimum-capacity-box](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/3861-minimum-capacity-box) |
 | [3866-first-unique-even-element](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/3866-first-unique-even-element) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/3875-construct-uniform-parity-array-i) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/3877-minimum-removals-to-achieve-target-xor) |
