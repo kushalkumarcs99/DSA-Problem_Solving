@@ -3,18 +3,19 @@ public:
     bool containsNearbyDuplicate(vector<int>& nums, int k) {
         int n = nums.size();
 
-        unordered_map<int, int> hash;
+        unordered_map<int, int> mp;
 
-        for(int i=0;i<n;i++)
+        for(int right = 0;right < n;right++)
         {
-            if(hash.find(nums[i]) != hash.end() && abs(hash[nums[i]] - i)<=k)
+            if(mp.find(nums[right]) != mp.end())
             {
-                return true;
+                if(abs(mp[nums[right]] - right) <= k)
+                {
+                    return true;
+                }
             }
-            hash[nums[i]] = i;
+            mp[nums[right]] = right;
         }
         return false;
-
-        
     }
 };
