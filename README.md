@@ -64,6 +64,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [1380-number-of-closed-islands](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1380-number-of-closed-islands) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1580-shuffle-the-array](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1580-shuffle-the-array) |
+| [1652-defuse-the-bomb](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1652-defuse-the-bomb) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1909-buildings-with-an-ocean-view](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1909-buildings-with-an-ocean-view) |
 | [2058-concatenation-of-array](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/2058-concatenation-of-array) |
@@ -326,6 +327,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [1138-grumpy-bookstore-owner](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1138-grumpy-bookstore-owner) |
+| [1652-defuse-the-bomb](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3463-alternating-groups-i](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/3463-alternating-groups-i) |
 | [3483-alternating-groups-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/3483-alternating-groups-ii) |
