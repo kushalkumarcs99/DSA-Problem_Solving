@@ -35,6 +35,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0238-product-of-array-except-self) |
@@ -79,6 +80,7 @@ This repo contains Leetcode questions solved by Kushal.
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0238-product-of-array-except-self) |
 ## Tree
 |  |
@@ -265,6 +267,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0704-binary-search) |
@@ -326,6 +329,7 @@ This repo contains Leetcode questions solved by Kushal.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0219-contains-duplicate-ii) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0424-longest-repeating-character-replacement) |
