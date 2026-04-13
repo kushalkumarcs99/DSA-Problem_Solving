@@ -312,6 +312,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0424-longest-repeating-character-replacement](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0433-minimum-genetic-mutation) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3825-apply-substitutions](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/3825-apply-substitutions) |
@@ -325,6 +326,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [1138-grumpy-bookstore-owner](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1138-grumpy-bookstore-owner) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3463-alternating-groups-i](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/3463-alternating-groups-i) |
 | [3483-alternating-groups-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/3483-alternating-groups-ii) |
 ## Dynamic Programming
@@ -389,6 +391,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0647-palindromic-substrings](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0680-valid-palindrome-ii) |
 | [1143-longest-common-subsequence](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1143-longest-common-subsequence) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1894-merge-strings-alternately](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1894-merge-strings-alternately) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3825-apply-substitutions](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/3825-apply-substitutions) |
@@ -396,6 +399,7 @@ This repo contains Leetcode questions solved by Kushal.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0347-top-k-frequent-elements) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3866-first-unique-even-element](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/3866-first-unique-even-element) |
 ## Sorting
