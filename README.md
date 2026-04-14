@@ -61,6 +61,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0971-shortest-bridge](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0971-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0994-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1073-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1117-as-far-from-land-as-possible](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1117-as-far-from-land-as-possible) |
 | [1138-grumpy-bookstore-owner](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1138-grumpy-bookstore-owner) |
 | [1380-number-of-closed-islands](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1380-number-of-closed-islands) |
@@ -138,6 +139,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0971-shortest-bridge](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0971-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0994-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1073-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1117-as-far-from-land-as-possible](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1117-as-far-from-land-as-possible) |
 | [1197-minimum-knight-moves](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1197-minimum-knight-moves) |
 | [1380-number-of-closed-islands](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1380-number-of-closed-islands) |
@@ -241,6 +243,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0971-shortest-bridge](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0971-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0994-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1073-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1117-as-far-from-land-as-possible](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1117-as-far-from-land-as-possible) |
 | [1380-number-of-closed-islands](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1380-number-of-closed-islands) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
