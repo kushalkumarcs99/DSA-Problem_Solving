@@ -70,6 +70,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [1652-defuse-the-bomb](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1652-defuse-the-bomb) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1909-buildings-with-an-ocean-view](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1909-buildings-with-an-ocean-view) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2058-concatenation-of-array](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/2058-concatenation-of-array) |
 | [3463-alternating-groups-i](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/3463-alternating-groups-i) |
 | [3483-alternating-groups-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/3483-alternating-groups-ii) |
@@ -380,10 +381,12 @@ This repo contains Leetcode questions solved by Kushal.
 | [0589-n-ary-tree-preorder-traversal](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1909-buildings-with-an-ocean-view](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1909-buildings-with-an-ocean-view) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [1909-buildings-with-an-ocean-view](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1909-buildings-with-an-ocean-view) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## String
 |  |
 | ------- |
