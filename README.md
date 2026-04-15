@@ -313,6 +313,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0128-longest-consecutive-sequence](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0139-word-break) |
+| [0146-lru-cache](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0146-lru-cache) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0217-contains-duplicate](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0219-contains-duplicate-ii) |
@@ -433,6 +434,7 @@ This repo contains Leetcode questions solved by Kushal.
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0146-lru-cache) |
 | [0271-encode-and-decode-strings](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0271-encode-and-decode-strings) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Backtracking
@@ -520,6 +522,7 @@ This repo contains Leetcode questions solved by Kushal.
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0146-lru-cache](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0146-lru-cache) |
 ## Enumeration
 |  |
 | ------- |
@@ -536,4 +539,8 @@ This repo contains Leetcode questions solved by Kushal.
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0743-network-delay-time) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
