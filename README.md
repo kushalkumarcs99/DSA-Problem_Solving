@@ -134,6 +134,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0684-redundant-connection](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0743-network-delay-time) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0971-shortest-bridge](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0971-shortest-bridge) |
@@ -220,6 +221,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0684-redundant-connection](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0743-network-delay-time) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0971-shortest-bridge](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0971-shortest-bridge) |
@@ -481,6 +483,7 @@ This repo contains Leetcode questions solved by Kushal.
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0743-network-delay-time](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0743-network-delay-time) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -522,4 +525,12 @@ This repo contains Leetcode questions solved by Kushal.
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0703-kth-largest-element-in-a-stream) |
+## Graph Theory
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
