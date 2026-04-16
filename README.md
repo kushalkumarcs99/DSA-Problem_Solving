@@ -50,6 +50,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0463-island-perimeter](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -84,6 +85,7 @@ This repo contains Leetcode questions solved by Kushal.
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0560-subarray-sum-equals-k) |
 ## Tree
 |  |
 | ------- |
@@ -323,6 +325,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0349-intersection-of-two-arrays](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0433-minimum-genetic-mutation) |
+| [0560-subarray-sum-equals-k](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0904-fruit-into-baskets](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0904-fruit-into-baskets) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
