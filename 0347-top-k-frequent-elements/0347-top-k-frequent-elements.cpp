@@ -3,27 +3,28 @@ public:
     vector<int> topKFrequent(vector<int>& nums, int k) {
         int n = nums.size();
 
-        unordered_map<int, int> hash;
+        unordered_map<int, int> mp;
 
         for(int i=0;i<n;i++)
         {
-            hash[nums[i]]++;
+            mp[nums[i]]++;
         }
-        vector<pair<int,int>> freq(hash.begin(), hash.end());
 
-        sort(freq.begin(), freq.end(), [](auto &a, auto &b) {
-        if (a.second == b.second) 
-            return a.first < b.first; // (optional: sort by key if freq equal)
-        return a.second > b.second;   // descending order of frequency
-    });
+        priority_queue<pair<int, int>> pq;
+
+        for(auto ele : mp)
+        {
+            pq.push({ele.second, ele.first});
+        }
 
         vector<int> result;
-        int i = 0;
-        while(i < k)
+
+        while(k--)
         {
-            result.push_back(freq[i].first);
-            i++;
+            result.push_back(pq.top().second);
+            pq.pop();
         }
+
         return result;
     }
 };
