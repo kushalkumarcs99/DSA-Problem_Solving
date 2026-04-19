@@ -552,4 +552,8 @@ This repo contains Leetcode questions solved by Kushal.
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0146-lru-cache) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
