@@ -1,27 +1,29 @@
 class Solution {
 public:
-    void dfsHelper(int row, int column, vector<vector<char>>& grid)
+    void dfs(int i, int j, vector<vector<char>>& grid, vector<vector<int>>& visited)
     {
-        grid[row][column] = '0';
-        int rows = grid.size();
-        int columns = grid[0].size();
-        vector<pair<int,int>> directions = {{-1,0},{1,0},{0,-1},{0,1}};
+        visited[i][j] = 1;
+        int n = grid.size();
+        int m = grid[0].size();
 
-        for(int i=0;i<4;i++)
+        vector<pair<int, int>> dirs = {{-1,0},{1,0},{0,-1},{0,1}};
+
+        for(auto dir : dirs)
         {
-            int nrow = row + directions[i].first;
-            int ncol = column + directions[i].second;
-            if(nrow >= 0 && nrow < rows && ncol >= 0 && ncol < columns && 
-            grid[nrow][ncol]=='1')
+            int nx = i + dir.first;
+            int ny = j + dir.second;
+
+            if(nx >= 0 && nx < n && ny >= 0 && ny < m && visited[nx][ny] == 0 && grid[nx][ny] == '1')
             {
-                dfsHelper(nrow, ncol, grid);
+                dfs(nx, ny, grid, visited);
             }
         }
-
     }
     int numIslands(vector<vector<char>>& grid) {
         int n = grid.size();
         int m = grid[0].size();
+
+        vector<vector<int>> visited(n, vector<int>(m, 0));
 
         int numberOfIslands = 0;
 
@@ -29,13 +31,14 @@ public:
         {
             for(int j=0;j<m;j++)
             {
-                if(grid[i][j]=='1')
+                if(grid[i][j] == '1' && visited[i][j] == 0)
                 {
                     numberOfIslands++;
-                    dfsHelper(i,j,grid);
+                    dfs(i,j, grid, visited);
                 }
             }
         }
+
         return numberOfIslands;
     }
 };
