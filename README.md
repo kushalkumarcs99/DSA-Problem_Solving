@@ -101,6 +101,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0110-balanced-binary-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0199-binary-tree-right-side-view](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0226-invert-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -124,6 +125,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0127-word-ladder](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0133-clone-graph) |
+| [0199-binary-tree-right-side-view](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0210-course-schedule-ii) |
@@ -165,6 +167,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0110-balanced-binary-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0199-binary-tree-right-side-view](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0226-invert-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -212,6 +215,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0130-surrounded-regions](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0133-clone-graph) |
+| [0199-binary-tree-right-side-view](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0210-course-schedule-ii) |
