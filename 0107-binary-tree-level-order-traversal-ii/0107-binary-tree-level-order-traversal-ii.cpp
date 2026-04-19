@@ -12,30 +12,31 @@
 class Solution {
 public:
     vector<vector<int>> levelOrderBottom(TreeNode* root) {
-        std::vector<std::vector<int>> result;
-    if (!root) return result; // If the tree is empty, return an empty result
+        vector<vector<int>> result;
 
-    std::queue<TreeNode*> q;
-    q.push(root); // Start with the root node
+        if(!root) {return result;}
 
-    while (!q.empty()) {
-        int levelSize = q.size(); // Number of nodes at the current level
-        std::vector<int> currentLevel;
+        queue<TreeNode*> q;
+        q.push(root);
 
-        // Process all nodes at the current level
-        for (int i = 0; i < levelSize; ++i) {
-            TreeNode* node = q.front();
-            q.pop();
-            currentLevel.push_back(node->val); // Add the node's value to the current level
+        while(!q.empty())
+        {
+            int size = q.size();
+            vector<int> currentLevel;
+            for(int i=0;i<size;i++)
+            {
+                TreeNode *front = q.front();
+                q.pop();
 
-            // Add the left and right children to the queue for the next level
-            if (node->left) q.push(node->left);
-            if (node->right) q.push(node->right);
+                currentLevel.push_back(front->val);
+
+                if(front->left) {q.push(front->left);}
+                if(front->right) {q.push(front->right);}
+            }
+
+            result.push_back(currentLevel);
         }
-
-        result.push_back(currentLevel); // Add the current level to the result
-    }
-    reverse(result.begin(), result.end());
-    return result;
+        reverse(result.begin(), result.end());
+        return result;
     }
 };
