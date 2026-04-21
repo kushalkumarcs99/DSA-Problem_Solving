@@ -10,40 +10,53 @@
  * };
  */
 class Solution {
-private:
-    int maxDistance = 0;
 public:
-    int amountOfTime(TreeNode* root, int start) {
-        traverse(root, start);
-        return maxDistance;
+    unordered_map<int, vector<int>> graph;
+
+    void buildGraph(TreeNode* node, TreeNode* parent) {
+        if(!node) return;
+
+        if(parent) {
+            graph[node->val].push_back(parent->val);
+            graph[parent->val].push_back(node->val);
+        }
+
+        buildGraph(node->left, node);
+        buildGraph(node->right, node);
     }
 
-    int traverse(TreeNode* root, int start)
-    {
-        int depth = 0;
-        if(root == nullptr)
-        {
-            return depth;
+    int BFS(int start) {
+        queue<int> q;
+        unordered_set<int> visited;
+
+        q.push(start);
+        visited.insert(start);
+
+        int time = -1; // IMPORTANT
+
+        while(!q.empty()) {
+            int size = q.size();
+
+            while(size--) {
+                int curr = q.front();
+                q.pop();
+
+                for(auto neigh : graph[curr]) {
+                    if(!visited.count(neigh)) {
+                        visited.insert(neigh);
+                        q.push(neigh);
+                    }
+                }
+            }
+
+            time++; // level completed
         }
 
-        int leftDepth = traverse(root->left, start);
-        int rightDepth = traverse(root->right, start);
+        return time;
+    }
 
-        if(root->val == start)
-        {
-            maxDistance = max(leftDepth, rightDepth);
-            depth = -1;
-        }
-        else if(leftDepth >= 0 && rightDepth >= 0)
-        {
-            depth = max(leftDepth, rightDepth) + 1;
-        }
-        else
-        {
-            int distance = abs(leftDepth) + abs(rightDepth);
-            maxDistance = max(maxDistance, distance);
-            depth = min(leftDepth, rightDepth) - 1;
-        }
-        return depth;
+    int amountOfTime(TreeNode* root, int start) {
+        buildGraph(root, nullptr);
+        return BFS(start);
     }
 };
