@@ -71,6 +71,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1580-shuffle-the-array](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1580-shuffle-the-array) |
 | [1652-defuse-the-bomb](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1652-defuse-the-bomb) |
+| [1730-shortest-path-to-get-food](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1730-shortest-path-to-get-food) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1909-buildings-with-an-ocean-view](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1909-buildings-with-an-ocean-view) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -154,6 +155,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [1197-minimum-knight-moves](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1197-minimum-knight-moves) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1380-number-of-closed-islands](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1380-number-of-closed-islands) |
+| [1730-shortest-path-to-get-food](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1730-shortest-path-to-get-food) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [3825-apply-substitutions](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/3825-apply-substitutions) |
@@ -263,6 +265,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1380-number-of-closed-islands](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1380-number-of-closed-islands) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1730-shortest-path-to-get-food](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1730-shortest-path-to-get-food) |
 ## Union Find
 |  |
 | ------- |
