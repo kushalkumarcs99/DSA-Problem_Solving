@@ -66,6 +66,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [1091-shortest-path-in-binary-matrix](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1117-as-far-from-land-as-possible](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1117-as-far-from-land-as-possible) |
 | [1138-grumpy-bookstore-owner](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1138-grumpy-bookstore-owner) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1380-number-of-closed-islands](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1380-number-of-closed-islands) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1580-shuffle-the-array](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1580-shuffle-the-array) |
@@ -151,6 +152,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [1091-shortest-path-in-binary-matrix](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1117-as-far-from-land-as-possible](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1117-as-far-from-land-as-possible) |
 | [1197-minimum-knight-moves](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1197-minimum-knight-moves) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1380-number-of-closed-islands](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1380-number-of-closed-islands) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -258,6 +260,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [1073-number-of-enclaves](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1073-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1117-as-far-from-land-as-possible](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1117-as-far-from-land-as-possible) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1380-number-of-closed-islands](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1380-number-of-closed-islands) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Union Find
