@@ -70,6 +70,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1380-number-of-closed-islands](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1380-number-of-closed-islands) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1514-path-with-maximum-probability](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1514-path-with-maximum-probability) |
 | [1580-shuffle-the-array](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1580-shuffle-the-array) |
 | [1652-defuse-the-bomb](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1652-defuse-the-bomb) |
 | [1730-shortest-path-to-get-food](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1730-shortest-path-to-get-food) |
@@ -509,6 +510,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0347-top-k-frequent-elements](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1514-path-with-maximum-probability) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -555,10 +557,12 @@ This repo contains Leetcode questions solved by Kushal.
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1514-path-with-maximum-probability) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1514-path-with-maximum-probability) |
 ## Doubly-Linked List
 |  |
 | ------- |
