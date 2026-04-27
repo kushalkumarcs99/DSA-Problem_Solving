@@ -192,6 +192,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0015-3sum](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0277-find-the-celebrity](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0277-find-the-celebrity) |
+| [0295-find-median-from-data-stream](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0408-valid-word-abbreviation](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0408-valid-word-abbreviation) |
@@ -451,6 +452,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0056-merge-intervals](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0217-contains-duplicate) |
 | [0252-meeting-rooms](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0252-meeting-rooms) |
+| [0295-find-median-from-data-stream](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0349-intersection-of-two-arrays) |
 ## Design
@@ -458,6 +460,7 @@ This repo contains Leetcode questions solved by Kushal.
 | ------- |
 | [0146-lru-cache](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0146-lru-cache) |
 | [0271-encode-and-decode-strings](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0271-encode-and-decode-strings) |
+| [0295-find-median-from-data-stream](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Backtracking
 |  |
@@ -509,6 +512,7 @@ This repo contains Leetcode questions solved by Kushal.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0743-network-delay-time) |
@@ -554,6 +558,7 @@ This repo contains Leetcode questions solved by Kushal.
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Graph Theory
 |  |
