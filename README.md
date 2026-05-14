@@ -61,6 +61,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0745-find-smallest-letter-greater-than-target](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0746-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0792-binary-search) |
+| [0815-bus-routes](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0815-bus-routes) |
 | [0904-fruit-into-baskets](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0904-fruit-into-baskets) |
 | [0971-shortest-bridge](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0971-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0994-rotting-oranges) |
@@ -149,6 +150,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0733-flood-fill](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0743-network-delay-time) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0764-n-ary-tree-level-order-traversal) |
+| [0815-bus-routes](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0815-bus-routes) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0971-shortest-bridge](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0971-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0994-rotting-oranges) |
@@ -344,6 +346,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0424-longest-repeating-character-replacement](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0433-minimum-genetic-mutation) |
 | [0560-subarray-sum-equals-k](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0560-subarray-sum-equals-k) |
+| [0815-bus-routes](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0815-bus-routes) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0904-fruit-into-baskets](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0904-fruit-into-baskets) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
