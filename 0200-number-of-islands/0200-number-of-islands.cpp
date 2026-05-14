@@ -3,17 +3,18 @@ public:
     void dfs(int i, int j, vector<vector<char>>& grid, vector<vector<int>>& visited)
     {
         visited[i][j] = 1;
+
         int n = grid.size();
         int m = grid[0].size();
 
-        vector<pair<int, int>> dirs = {{-1,0},{1,0},{0,-1},{0,1}};
+        vector<pair<int, int>> dirs = {{0,1}, {0,-1},{1,0},{-1,0}};
 
         for(auto dir : dirs)
         {
             int nx = i + dir.first;
             int ny = j + dir.second;
 
-            if(nx >= 0 && nx < n && ny >= 0 && ny < m && visited[nx][ny] == 0 && grid[nx][ny] == '1')
+            if(nx < n && ny < m && nx >= 0 && ny >= 0 && grid[nx][ny] == '1' && visited[nx][ny] == 0)
             {
                 dfs(nx, ny, grid, visited);
             }
@@ -23,22 +24,21 @@ public:
         int n = grid.size();
         int m = grid[0].size();
 
-        vector<vector<int>> visited(n, vector<int>(m, 0));
+        vector<vector<int>> visited(n, vector<int>(m,0));
 
-        int numberOfIslands = 0;
+        int answer = 0;
 
         for(int i=0;i<n;i++)
         {
             for(int j=0;j<m;j++)
             {
-                if(grid[i][j] == '1' && visited[i][j] == 0)
+                if(grid[i][j] == '1' and visited[i][j] == 0)
                 {
-                    numberOfIslands++;
-                    dfs(i,j, grid, visited);
+                    answer++;
+                    dfs(i,j,grid,visited);
                 }
             }
         }
-
-        return numberOfIslands;
+        return answer;
     }
 };
