@@ -20,6 +20,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0056-merge-intervals](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -220,6 +221,7 @@ This repo contains Leetcode questions solved by Kushal.
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -256,6 +258,7 @@ This repo contains Leetcode questions solved by Kushal.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0200-number-of-islands) |
 | [0286-walls-and-gates](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0286-walls-and-gates) |
@@ -421,6 +424,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0020-valid-parentheses](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0139-word-break) |
@@ -474,6 +478,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0040-combination-sum-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0113-path-sum-ii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
