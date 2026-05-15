@@ -98,6 +98,7 @@ This repo contains Leetcode questions solved by Kushal.
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0101-symmetric-tree) |
@@ -169,6 +170,7 @@ This repo contains Leetcode questions solved by Kushal.
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0101-symmetric-tree) |
@@ -223,6 +225,7 @@ This repo contains Leetcode questions solved by Kushal.
 |  |
 | ------- |
 | [0079-word-search](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -409,6 +412,7 @@ This repo contains Leetcode questions solved by Kushal.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1909-buildings-with-an-ocean-view](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1909-buildings-with-an-ocean-view) |
