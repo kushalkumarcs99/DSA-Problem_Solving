@@ -1,36 +1,17 @@
 class Solution {
 public:
-    int LCSHelper(const string& text1, const string& text2,
-                  int i, int j, vector<vector<int>>& memo)
+    int lcs(int i, int j, string& text1, string& text2, vector<vector<int>>& dp)
     {
-        // Base case: if any index goes out of range
-        if (i < 0 || j < 0)
-            return 0;
+        if(i < 0 || j < 0) return 0;
+        if(dp[i][j] != -1) return dp[i][j];
+        if(text1[i] == text2[j]) return dp[i][j] =  1 + lcs(i-1, j-1, text1, text2, dp);
 
-        // If already computed
-        if (memo[i][j] != -1)
-            return memo[i][j];
-
-        // If characters match
-        if (text1[i] == text2[j]) {
-            return memo[i][j] = 1 + LCSHelper(text1, text2, i - 1, j - 1, memo);
-        }
-
-        // Otherwise, try both possibilities
-        int skipText1 = LCSHelper(text1, text2, i - 1, j, memo);
-        int skipText2 = LCSHelper(text1, text2, i, j - 1, memo);
-
-        return memo[i][j] = max(skipText1, skipText2);
+        return dp[i][j] = max(lcs(i-1,j,text1, text2, dp), lcs(i,j-1,text1,text2, dp));
     }
-
     int longestCommonSubsequence(string text1, string text2) {
         int n = text1.size();
         int m = text2.size();
-
-        // Memo table sized exactly as indices 0...(n-1)
-        vector<vector<int>> memo(n, vector<int>(m, -1));
-
-        // Start from last indices
-        return LCSHelper(text1, text2, n - 1, m - 1, memo);
+        vector<vector<int>> dp(n, vector<int>(m,-1));
+        return lcs(n-1, m-1, text1, text2, dp);
     }
 };
