@@ -52,6 +52,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0347-top-k-frequent-elements](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0416-partition-equal-subset-sum](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0416-partition-equal-subset-sum) |
+| [0427-construct-quad-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0427-construct-quad-tree) |
 | [0463-island-perimeter](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0540-single-element-in-a-sorted-array) |
@@ -113,6 +114,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0226-invert-binary-tree) |
+| [0427-construct-quad-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0427-construct-quad-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0700-search-in-a-binary-search-tree) |
@@ -268,6 +270,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0200-number-of-islands](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0200-number-of-islands) |
 | [0286-walls-and-gates](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0286-walls-and-gates) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0427-construct-quad-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0427-construct-quad-tree) |
 | [0463-island-perimeter](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0733-flood-fill) |
@@ -523,6 +526,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0347-top-k-frequent-elements) |
+| [0427-construct-quad-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0427-construct-quad-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1382-balance-a-binary-search-tree) |
 ## Heap (Priority Queue)
 |  |
