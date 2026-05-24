@@ -589,6 +589,7 @@ This repo contains Leetcode questions solved by Kushal.
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0207-course-schedule) |
 | [0743-network-delay-time](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0743-network-delay-time) |
 | [1514-path-with-maximum-probability](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1514-path-with-maximum-probability) |
 ## Shortest Path
