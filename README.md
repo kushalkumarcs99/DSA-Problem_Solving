@@ -18,6 +18,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0053-maximum-subarray](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0056-merge-intervals) |
+| [0064-minimum-path-sum](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0078-subsets) |
@@ -270,6 +271,7 @@ This repo contains Leetcode questions solved by Kushal.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0130-surrounded-regions) |
@@ -399,6 +401,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0022-generate-parentheses](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0096-unique-binary-search-trees) |
