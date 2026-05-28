@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int solveUniquePathsWithObstacles(int i, int j, vector<vector<int>>& obstacleGrid, vector<vector<int>> dp)
+    int solveUniquePathsWithObstacles(int i, int j, vector<vector<int>>& obstacleGrid, vector<vector<int>>& dp)
     {
         int n = obstacleGrid.size();
         int m = obstacleGrid[0].size();
