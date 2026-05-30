@@ -68,6 +68,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0792-binary-search](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0792-binary-search) |
 | [0815-bus-routes](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0815-bus-routes) |
 | [0904-fruit-into-baskets](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0904-fruit-into-baskets) |
+| [0912-sort-an-array](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0912-sort-an-array) |
 | [0971-shortest-bridge](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0971-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0994-rotting-oranges) |
 | [0999-available-captures-for-rook](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0999-available-captures-for-rook) |
@@ -490,6 +491,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0295-find-median-from-data-stream](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0349-intersection-of-two-arrays) |
+| [0912-sort-an-array](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0912-sort-an-array) |
 ## Design
 |  |
 | ------- |
@@ -545,6 +547,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0347-top-k-frequent-elements) |
 | [0427-construct-quad-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0427-construct-quad-tree) |
+| [0912-sort-an-array](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0912-sort-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1382-balance-a-binary-search-tree) |
 ## Heap (Priority Queue)
 |  |
@@ -554,11 +557,13 @@ This repo contains Leetcode questions solved by Kushal.
 | [0703-kth-largest-element-in-a-stream](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0912-sort-an-array](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0912-sort-an-array) |
 | [1514-path-with-maximum-probability](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1514-path-with-maximum-probability) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -622,4 +627,16 @@ This repo contains Leetcode questions solved by Kushal.
 | [0128-longest-consecutive-sequence](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0200-number-of-islands) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
