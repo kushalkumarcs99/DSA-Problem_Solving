@@ -22,6 +22,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0064-minimum-path-sum](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -205,6 +206,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0005-longest-palindromic-substring](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0277-find-the-celebrity](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0277-find-the-celebrity) |
 | [0295-find-median-from-data-stream](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0295-find-median-from-data-stream) |
@@ -486,6 +488,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0015-3sum](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0217-contains-duplicate) |
 | [0252-meeting-rooms](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0252-meeting-rooms) |
 | [0295-find-median-from-data-stream](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0295-find-median-from-data-stream) |
