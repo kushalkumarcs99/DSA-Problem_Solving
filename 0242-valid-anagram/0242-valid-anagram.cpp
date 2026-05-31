@@ -2,25 +2,24 @@ class Solution {
 public:
     bool isAnagram(string s, string t) {
         int n = s.size();
-        int m = t.size();
-
-        if(n != m) return false;
-
-        unordered_map<char, int> hash;
-
-        for(int i=0;i<n;i++)
+        if(s.size() != t.size())
         {
-            hash[s[i]]++;
+            return false;
         }
 
-        for(int i=0;i<m;i++)
+        vector<int> a(26,0), b(26,0);
+
+        for(int i = 0;i<n;i++)
         {
-            if(hash.find(t[i]) == hash.end())
+            a[s[i] - 'a']++;
+            b[t[i] - 'a']++;
+        }
+
+        for(int i=0;i<26;i++)
+        {
+            if(a[i] != b[i])
             {
                 return false;
-            }
-            else{
-                hash[t[i]]--;
             }
         }
         return true;
