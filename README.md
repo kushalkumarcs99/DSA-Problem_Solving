@@ -89,6 +89,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [1909-buildings-with-an-ocean-view](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1909-buildings-with-an-ocean-view) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2058-concatenation-of-array](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/2058-concatenation-of-array) |
+| [2126-destroying-asteroids](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/2126-destroying-asteroids) |
 | [3463-alternating-groups-i](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/3463-alternating-groups-i) |
 | [3483-alternating-groups-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/3483-alternating-groups-ii) |
 | [3825-apply-substitutions](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/3825-apply-substitutions) |
@@ -501,6 +502,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0347-top-k-frequent-elements](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0912-sort-an-array](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0912-sort-an-array) |
+| [2126-destroying-asteroids](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/2126-destroying-asteroids) |
 ## Design
 |  |
 | ------- |
@@ -543,6 +545,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0680-valid-palindrome-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1382-balance-a-binary-search-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1382-balance-a-binary-search-tree) |
+| [2126-destroying-asteroids](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/2126-destroying-asteroids) |
 ## Trie
 |  |
 | ------- |
