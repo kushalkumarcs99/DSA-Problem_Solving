@@ -370,6 +370,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0217-contains-duplicate](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0242-valid-anagram) |
 | [0266-palindrome-permutation](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0266-palindrome-permutation) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0347-top-k-frequent-elements](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0347-top-k-frequent-elements) |
@@ -463,6 +464,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0127-word-ladder](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0139-word-break) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
+| [0242-valid-anagram](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0242-valid-anagram) |
 | [0266-palindrome-permutation](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0266-palindrome-permutation) |
 | [0271-encode-and-decode-strings](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0271-encode-and-decode-strings) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
@@ -493,6 +495,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0056-merge-intervals](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0242-valid-anagram) |
 | [0252-meeting-rooms](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0252-meeting-rooms) |
 | [0295-find-median-from-data-stream](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0347-top-k-frequent-elements) |
