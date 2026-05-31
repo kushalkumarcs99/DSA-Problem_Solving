@@ -13,17 +13,29 @@ class Solution {
 public:
     TreeNode* invertTree(TreeNode* root) {
         if(!root) return nullptr;
+
         queue<TreeNode*> q;
         q.push(root);
 
-        while(!q.empty()){
-            TreeNode* currNode = q.front();
-            q.pop();
+        while(!q.empty())
+        {
+            int size = q.size();
+            for(int i=0;i<size;i++)
+            {
+                TreeNode* front = q.front();
+                q.pop();
+                swap(front->left, front->right);
+                if(front->left)
+                {
+                    q.push(front->left);
+                }
 
-            swap(currNode->left, currNode->right);
+                if(front->right)
+                {
+                    q.push(front->right);
+                }
+            }
 
-            if(currNode->left) q.push(currNode->left);
-            if(currNode->right) q.push(currNode->right);
         }
         return root;
     }
