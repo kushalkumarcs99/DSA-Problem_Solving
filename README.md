@@ -60,6 +60,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0463-island-perimeter](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0704-binary-search) |
@@ -157,6 +158,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0433-minimum-genetic-mutation](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0433-minimum-genetic-mutation) |
 | [0463-island-perimeter](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0547-number-of-provinces) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0684-redundant-connection](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0684-redundant-connection) |
@@ -290,6 +292,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0427-construct-quad-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0427-construct-quad-tree) |
 | [0463-island-perimeter](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0733-flood-fill) |
 | [0971-shortest-bridge](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0971-shortest-bridge) |
@@ -428,6 +431,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0416-partition-equal-subset-sum) |
+| [0542-01-matrix](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0647-palindromic-substrings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0746-min-cost-climbing-stairs) |
