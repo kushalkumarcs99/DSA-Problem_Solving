@@ -52,6 +52,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0286-walls-and-gates](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0286-walls-and-gates) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0346-moving-average-from-data-stream](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0346-moving-average-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0416-partition-equal-subset-sum](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0416-partition-equal-subset-sum) |
@@ -509,6 +510,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0146-lru-cache](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0146-lru-cache) |
 | [0271-encode-and-decode-strings](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0271-encode-and-decode-strings) |
 | [0295-find-median-from-data-stream](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0295-find-median-from-data-stream) |
+| [0346-moving-average-from-data-stream](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0346-moving-average-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Backtracking
 |  |
@@ -616,6 +618,7 @@ This repo contains Leetcode questions solved by Kushal.
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0295-find-median-from-data-stream) |
+| [0346-moving-average-from-data-stream](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0346-moving-average-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Graph Theory
 |  |
@@ -652,4 +655,8 @@ This repo contains Leetcode questions solved by Kushal.
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0912-sort-an-array) |
+## Queue
+|  |
+| ------- |
+| [0346-moving-average-from-data-stream](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0346-moving-average-from-data-stream) |
 <!---LeetCode Topics End-->
