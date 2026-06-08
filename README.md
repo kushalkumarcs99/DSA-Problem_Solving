@@ -26,6 +26,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0078-subsets](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -213,6 +214,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0011-container-with-most-water](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0277-find-the-celebrity](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0277-find-the-celebrity) |
 | [0295-find-median-from-data-stream](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0295-find-median-from-data-stream) |
@@ -500,6 +502,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0049-group-anagrams](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0242-valid-anagram) |
 | [0252-meeting-rooms](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0252-meeting-rooms) |
