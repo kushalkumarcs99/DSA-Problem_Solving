@@ -4,7 +4,7 @@
  */
 var canAttendMeetings = function(intervals) {
     let n = intervals.length;
-    intervals.sort();
+    intervals.sort((a, b) => a[0] - b[0]);
 
     for(let i=0;i<n-1;i++)
     {
