@@ -18,6 +18,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0053-maximum-subarray](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0066-plus-one) |
