@@ -182,6 +182,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [1730-shortest-path-to-get-food](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1730-shortest-path-to-get-food) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3825-apply-substitutions](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/3825-apply-substitutions) |
 ## Binary Tree
 |  |
@@ -281,6 +282,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [1382-balance-a-binary-search-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1382-balance-a-binary-search-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3825-apply-substitutions](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/3825-apply-substitutions) |
 ## Matrix
 |  |
@@ -638,6 +640,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0743-network-delay-time](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1514-path-with-maximum-probability) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Shortest Path
 |  |
 | ------- |
@@ -654,6 +657,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0128-longest-consecutive-sequence](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0200-number-of-islands) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Merge Sort
 |  |
 | ------- |
