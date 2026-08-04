@@ -40,9 +40,6 @@ public:
             }
         }
 
-        if(topo.size() == numCourses)
-        return topo;
-
-        return {};
+        return topo.size() == numCourses ? topo : vector<int>{};
     }
 };
