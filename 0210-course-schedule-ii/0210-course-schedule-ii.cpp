@@ -2,46 +2,47 @@ class Solution {
 public:
     vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
         vector<vector<int>> adj(numCourses);
-        vector<int> indegree(numCourses, 0);
+        vector<int> inDegree(numCourses,0);
+        for(auto &prerequisite : prerequisites)
+        {
+            int u = prerequisite[0];
+            int v = prerequisite[1];
 
-        // build graph: b -> a
-        for (auto &p : prerequisites) {
-            int course = p[0];      // to take
-            int prereq = p[1];      // must take before
-            adj[prereq].push_back(course); // edge: prereq -> course
-            indegree[course]++;
+            adj[v].push_back(u);
+            inDegree[u]++;
         }
 
         queue<int> q;
 
-        // push all nodes with indegree 0
-        for (int i = 0; i < numCourses; i++) {
-            if (indegree[i] == 0) {
+        for(int i=0;i<numCourses;i++){
+            if(inDegree[i]==0)
+            {
                 q.push(i);
             }
         }
 
-        vector<int> topoOrder;
+        vector<int> topo;
 
-        while (!q.empty()) {
+        while(!q.empty())
+        {
             int node = q.front();
             q.pop();
 
-            topoOrder.push_back(node);
+            topo.push_back(node);
 
-            for (int next : adj[node]) {
-                indegree[next]--;
-                if (indegree[next] == 0) {
-                    q.push(next);
+            for(int neighbor : adj[node])
+            {
+                inDegree[neighbor]--;
+                if(inDegree[neighbor]==0)
+                {
+                    q.push(neighbor);
                 }
             }
         }
 
-        // if we processed all courses, no cycle
-        if (topoOrder.size() == numCourses) 
-            return topoOrder;
+        if(topo.size() == numCourses)
+        return topo;
 
-        // cycle exists → cannot finish all courses
         return {};
     }
 };
