@@ -2,23 +2,22 @@ class Solution {
 public:
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
         int n = prerequisites.size();
-        vector<vector<int>> adjList(numCourses);
-        vector<int> indegree(numCourses, 0);
-
-        for(auto &prerequisite : prerequisites)
+        vector<vector<int>> adj(numCourses);
+        vector<int> indegree(numCourses,0);
+        for(int i=0;i<n;i++)
         {
-            int node1 = prerequisite[0];
-            int node2 = prerequisite[1];
+            int u = prerequisites[i][0];
+            int v = prerequisites[i][1];
 
-            adjList[node1].push_back(node2);
-            indegree[node2]++;
+            adj[u].push_back(v);
+            indegree[v]++;
         }
 
         queue<int> q;
 
         for(int i=0;i<numCourses;i++)
         {
-            if(indegree[i] == 0)
+            if(indegree[i]==0)
             {
                 q.push(i);
             }
@@ -33,16 +32,15 @@ public:
 
             processed++;
 
-            for(int next : adjList[node])
+            for(int neighbor : adj[node])
             {
-                indegree[next]--;
-                if(indegree[next] == 0)
+                indegree[neighbor]--;
+                if(indegree[neighbor]==0)
                 {
-                    q.push(next);
+                    q.push(neighbor);
                 }
             }
         }
-
         return processed == numCourses;
     }
 };
