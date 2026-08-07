@@ -49,6 +49,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0209-minimum-size-subarray-sum](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0238-product-of-array-except-self) |
 | [0252-meeting-rooms](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0252-meeting-rooms) |
 | [0256-paint-house](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0256-paint-house) |
@@ -388,6 +389,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0169-majority-element](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0242-valid-anagram) |
 | [0266-palindrome-permutation](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0266-palindrome-permutation) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
@@ -503,6 +505,7 @@ This repo contains Leetcode questions solved by Kushal.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0347-top-k-frequent-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -517,6 +520,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0088-merge-sorted-array](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0242-valid-anagram) |
 | [0252-meeting-rooms](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0252-meeting-rooms) |
 | [0295-find-median-from-data-stream](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0295-find-median-from-data-stream) |
@@ -692,4 +696,5 @@ This repo contains Leetcode questions solved by Kushal.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
