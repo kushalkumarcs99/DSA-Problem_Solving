@@ -82,6 +82,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [1091-shortest-path-in-binary-matrix](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1117-as-far-from-land-as-possible](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1117-as-far-from-land-as-possible) |
 | [1138-grumpy-bookstore-owner](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1138-grumpy-bookstore-owner) |
+| [1150-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1150-check-if-a-number-is-majority-element-in-a-sorted-array) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1380-number-of-closed-islands](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1380-number-of-closed-islands) |
 | [1428-leftmost-column-with-at-least-a-one](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1428-leftmost-column-with-at-least-a-one) |
@@ -343,6 +344,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0704-binary-search](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0704-binary-search) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0792-binary-search) |
+| [1150-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1150-check-if-a-number-is-majority-element-in-a-sorted-array) |
 | [1428-leftmost-column-with-at-least-a-one](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1428-leftmost-column-with-at-least-a-one) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Math
