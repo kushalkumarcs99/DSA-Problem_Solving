@@ -42,6 +42,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0200-number-of-islands) |
@@ -384,6 +385,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0141-linked-list-cycle](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0146-lru-cache) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
+| [0169-majority-element](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0242-valid-anagram) |
@@ -500,6 +502,7 @@ This repo contains Leetcode questions solved by Kushal.
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0347-top-k-frequent-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -512,6 +515,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0056-merge-intervals](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0242-valid-anagram) |
 | [0252-meeting-rooms](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0252-meeting-rooms) |
@@ -575,6 +579,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0053-maximum-subarray](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0169-majority-element](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0347-top-k-frequent-elements) |
 | [0427-construct-quad-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0427-construct-quad-tree) |
 | [0912-sort-an-array](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0912-sort-an-array) |
@@ -683,4 +688,8 @@ This repo contains Leetcode questions solved by Kushal.
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0207-course-schedule) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
