@@ -56,6 +56,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0256-paint-house](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0256-paint-house) |
 | [0271-encode-and-decode-strings](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0271-encode-and-decode-strings) |
 | [0286-walls-and-gates](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0286-walls-and-gates) |
+| [0304-range-sum-query-2d-immutable](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0304-range-sum-query-2d-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0346-moving-average-from-data-stream](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0346-moving-average-from-data-stream) |
@@ -111,6 +112,7 @@ This repo contains Leetcode questions solved by Kushal.
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0238-product-of-array-except-self) |
+| [0304-range-sum-query-2d-immutable](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0560-subarray-sum-equals-k) |
 ## Tree
 |  |
@@ -301,6 +303,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0130-surrounded-regions](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0200-number-of-islands) |
 | [0286-walls-and-gates](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0286-walls-and-gates) |
+| [0304-range-sum-query-2d-immutable](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0304-range-sum-query-2d-immutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0427-construct-quad-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0427-construct-quad-tree) |
 | [0463-island-perimeter](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0463-island-perimeter) |
@@ -537,6 +540,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0146-lru-cache](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0146-lru-cache) |
 | [0271-encode-and-decode-strings](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0271-encode-and-decode-strings) |
 | [0295-find-median-from-data-stream](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0295-find-median-from-data-stream) |
+| [0304-range-sum-query-2d-immutable](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0304-range-sum-query-2d-immutable) |
 | [0346-moving-average-from-data-stream](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0346-moving-average-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Backtracking
