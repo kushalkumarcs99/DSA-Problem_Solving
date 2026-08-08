@@ -32,6 +32,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0088-merge-sorted-array](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -127,6 +128,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -204,6 +206,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -590,6 +593,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0053-maximum-subarray](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0347-top-k-frequent-elements) |
 | [0427-construct-quad-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0427-construct-quad-tree) |
@@ -633,6 +637,7 @@ This repo contains Leetcode questions solved by Kushal.
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0096-unique-binary-search-trees) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0703-kth-largest-element-in-a-stream) |
