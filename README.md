@@ -12,6 +12,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0015-3sum](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0041-first-missing-positive) |
@@ -291,6 +292,7 @@ This repo contains Leetcode questions solved by Kushal.
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0064-minimum-path-sum) |
@@ -375,6 +377,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0001-two-sum](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
