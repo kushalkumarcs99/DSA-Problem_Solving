@@ -367,6 +367,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0096-unique-binary-search-trees](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0096-unique-binary-search-trees) |
 | [1013-fibonacci-number](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1013-fibonacci-number) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [3360-stone-removal-game](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/3360-stone-removal-game) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/3875-construct-uniform-parity-array-i) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
@@ -624,6 +625,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0054-spiral-matrix](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0054-spiral-matrix) |
 | [0999-available-captures-for-rook](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0999-available-captures-for-rook) |
 | [2058-concatenation-of-array](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/2058-concatenation-of-array) |
+| [3360-stone-removal-game](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/3360-stone-removal-game) |
 ## Recursion
 |  |
 | ------- |
