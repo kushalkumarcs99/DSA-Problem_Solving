@@ -1,28 +1,32 @@
-#include <queue>
-#include <vector>
-using namespace std;
-
 class KthLargest {
 public:
-    priority_queue<int, vector<int>, greater<int>> pq;
-    int K;
+    vector<int> input;
+    int cap;
 
     KthLargest(int k, vector<int>& nums) {
-        K = k;
+        cap = k;
 
         for (int num : nums) {
-            pq.push(num);
-            if (pq.size() > K) {
-                pq.pop();
-            }
+            add(num);
         }
     }
-    
+
     int add(int val) {
-        pq.push(val);
-        if (pq.size() > K) {
-            pq.pop();
+        input.push_back(val);
+
+        push_heap(input.begin(), input.end(), greater<int>());
+
+        if (input.size() > cap) {
+            pop_heap(input.begin(), input.end(), greater<int>());
+            input.pop_back();
         }
-        return pq.top();
+
+        return input.front();
     }
 };
+
+/**
+ * Your KthLargest object will be instantiated and called as such:
+ * KthLargest* obj = new KthLargest(k, nums);
+ * int param_1 = obj->add(val);
+ */
