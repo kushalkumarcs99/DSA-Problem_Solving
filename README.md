@@ -230,6 +230,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0075-sort-colors](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0141-linked-list-cycle) |
+| [0151-reverse-words-in-a-string](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0277-find-the-celebrity](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0277-find-the-celebrity) |
 | [0295-find-median-from-data-stream](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0295-find-median-from-data-stream) |
@@ -497,6 +498,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0091-decode-ways](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0139-word-break) |
+| [0151-reverse-words-in-a-string](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0151-reverse-words-in-a-string) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0242-valid-anagram](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0242-valid-anagram) |
 | [0266-palindrome-permutation](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0266-palindrome-permutation) |
