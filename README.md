@@ -72,6 +72,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0560-subarray-sum-equals-k](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0713-subarray-product-less-than-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0733-flood-fill) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -117,6 +118,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0238-product-of-array-except-self](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0560-subarray-sum-equals-k) |
+| [0713-subarray-product-less-than-k](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0713-subarray-product-less-than-k) |
 ## Tree
 |  |
 | ------- |
@@ -355,6 +357,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0349-intersection-of-two-arrays](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0713-subarray-product-less-than-k) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0792-binary-search) |
 | [1150-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1150-check-if-a-number-is-majority-element-in-a-sorted-array) |
@@ -429,6 +432,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0219-contains-duplicate-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0219-contains-duplicate-ii) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0424-longest-repeating-character-replacement) |
+| [0713-subarray-product-less-than-k](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0904-fruit-into-baskets) |
 | [1138-grumpy-bookstore-owner](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1138-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
