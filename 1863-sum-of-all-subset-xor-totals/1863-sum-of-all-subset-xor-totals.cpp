@@ -1,17 +1,13 @@
 class Solution {
 public:
     int subsetXORSum(vector<int>& nums) {
-        return XORSum(nums, 0, 0);
-    }
-private:
-    int XORSum(vector<int>& nums, int index, int currentXOR)
-    {
-        if(index == nums.size()) return currentXOR;
+        int result = 0;
 
-        int withElement = XORSum(nums, index + 1, currentXOR ^ nums[index]);
+        for (int num : nums)
+        {
+            result |= num;
+        }
 
-        int withoutElement = XORSum(nums, index + 1, currentXOR);
-
-        return withElement + withoutElement;
+        return result << (nums.size() - 1);
     }
 };
