@@ -728,4 +728,8 @@ This repo contains Leetcode questions solved by Kushal.
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0056-merge-intervals) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
