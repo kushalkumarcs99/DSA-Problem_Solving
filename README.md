@@ -724,4 +724,8 @@ This repo contains Leetcode questions solved by Kushal.
 | ------- |
 | [0169-majority-element](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0229-majority-element-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
