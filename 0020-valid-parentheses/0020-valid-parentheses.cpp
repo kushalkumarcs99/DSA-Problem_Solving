@@ -1,31 +1,28 @@
 class Solution {
 public:
     bool isValid(string s) {
-        unordered_map<char, char> mappings;
-
-        mappings[')'] = '(';
-        mappings[']'] = '[';
-        mappings['}'] = '{';
-
+        int n = s.size();
+        if (n == 1 || s[0] == ')' || s[0] == ']' || s[0] == '}')
+            return false;
         stack<char> st;
+        unordered_map<char, char> hash = {{')', '('}, {']', '['}, {'}', '{'}};
 
-        for (char c : s) {
-            if (mappings.find(c) == mappings.end()) {
-                // Opening bracket
-                st.push(c);
+        for (int i = 0; i < n; i++) {
+            if (s[i] == '(' || s[i] == '[' || s[i] == '{') {
+                st.push(s[i]);
             } else {
-                // Closing bracket
-                if (st.empty())
+                if (st.empty()) {
                     return false;
+                }
 
-                char topElement = st.top();
+                // Top doesn't match current closing bracket
+                if (st.top() != hash[s[i]]) {
+                    return false;
+                }
+
                 st.pop();
-
-                if (topElement != mappings[c])
-                    return false;
             }
         }
-
         return st.empty();
     }
 };
