@@ -1,32 +1,34 @@
 class Solution {
 public:
-    int n;
-    vector<vector<int>> memo; // -1 unknown, 0 false, 1 true
+    bool solve(int ind,vector<int>& nums, int target, vector<vector<int>>& dp)
+    {
+        if(ind == nums.size()){return false;}
 
-    bool canPartitionHelper(int index, const vector<int> &nums, int target) {
-        if (target == 0) return true;
-        if (index == 0) return nums[0] == target;
-        int &m = memo[index][target];
-        if (m != -1) return m == 1;
+        if(target == 0) return true;
+        if(dp[ind][target] != -1) return dp[ind][target];
+        int notTake = solve(ind+1,nums, target,dp);
 
-        // Exclude
-        bool notConsider = canPartitionHelper(index - 1, nums, target);
+        int take = false;
+        if(nums[ind] <= target)
+        {
+            take = solve(ind+1,nums,target - nums[ind],dp);
+        }
 
-        // Include (only if nums[index] <= target)
-        bool consider = false;
-        if (nums[index] <= target)
-            consider = canPartitionHelper(index - 1, nums, target - nums[index]);
-
-        return m = (notConsider || consider) ? 1 : 0;
+        return dp[ind][target] = notTake || take;
     }
-
     bool canPartition(vector<int>& nums) {
-        n = nums.size();
-        int sum = 0;
-        for (int x : nums) sum += x;
-        if (sum % 2 != 0) return false;
-        int target = sum / 2;
-        memo.assign(n, vector<int>(target + 1, -1));
-        return canPartitionHelper(n - 1, nums, target);
+        int n = nums.size();
+
+        int total = 0;
+
+        for(int i=0;i<n;i++)
+        {
+            total += nums[i];
+        }
+
+        if(total % 2 != 0) return false;
+        int target = total / 2;
+        vector<vector<int>> dp(n, vector<int>(target+1, -1));
+        return solve(0,nums,total / 2, dp);
     }
 };
