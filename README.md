@@ -97,6 +97,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [1380-number-of-closed-islands](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1380-number-of-closed-islands) |
 | [1428-leftmost-column-with-at-least-a-one](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1428-leftmost-column-with-at-least-a-one) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1514-path-with-maximum-probability](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1514-path-with-maximum-probability) |
 | [1580-shuffle-the-array](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1580-shuffle-the-array) |
 | [1652-defuse-the-bomb](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1652-defuse-the-bomb) |
@@ -444,6 +445,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [1138-grumpy-bookstore-owner](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1138-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1652-defuse-the-bomb](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -481,6 +483,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [1013-fibonacci-number](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1013-fibonacci-number) |
 | [1117-as-far-from-land-as-possible](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1117-as-far-from-land-as-possible) |
 | [1143-longest-common-subsequence](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1143-longest-common-subsequence) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 ## Stack
