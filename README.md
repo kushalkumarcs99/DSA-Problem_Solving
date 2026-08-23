@@ -67,6 +67,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0427-construct-quad-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0427-construct-quad-tree) |
 | [0463-island-perimeter](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0485-max-consecutive-ones) |
+| [0487-max-consecutive-ones-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0487-max-consecutive-ones-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0560-subarray-sum-equals-k) |
@@ -433,6 +434,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0219-contains-duplicate-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0219-contains-duplicate-ii) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0424-longest-repeating-character-replacement) |
+| [0487-max-consecutive-ones-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0487-max-consecutive-ones-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0904-fruit-into-baskets) |
 | [1138-grumpy-bookstore-owner](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1138-grumpy-bookstore-owner) |
@@ -466,6 +468,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0416-partition-equal-subset-sum) |
+| [0487-max-consecutive-ones-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0487-max-consecutive-ones-ii) |
 | [0542-01-matrix](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0647-palindromic-substrings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
