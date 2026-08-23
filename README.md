@@ -107,6 +107,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [1944-number-of-visible-people-in-a-queue](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2058-concatenation-of-array](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/2058-concatenation-of-array) |
 | [2126-destroying-asteroids](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/2126-destroying-asteroids) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3463-alternating-groups-i](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/3463-alternating-groups-i) |
 | [3483-alternating-groups-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/3483-alternating-groups-ii) |
 | [3825-apply-substitutions](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/3825-apply-substitutions) |
@@ -425,6 +426,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3825-apply-substitutions](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/3825-apply-substitutions) |
@@ -448,6 +450,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1652-defuse-the-bomb](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3463-alternating-groups-i](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/3463-alternating-groups-i) |
 | [3483-alternating-groups-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/3483-alternating-groups-ii) |
