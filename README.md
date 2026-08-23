@@ -85,6 +85,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0971-shortest-bridge](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0971-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0994-rotting-oranges) |
 | [0999-available-captures-for-rook](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0999-available-captures-for-rook) |
+| [1004-max-consecutive-ones-iii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1046-last-stone-weight) |
 | [1073-number-of-enclaves](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1073-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -120,6 +121,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0304-range-sum-query-2d-immutable](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0713-subarray-product-less-than-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1004-max-consecutive-ones-iii) |
 ## Tree
 |  |
 | ------- |
@@ -361,6 +363,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0713-subarray-product-less-than-k](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0713-subarray-product-less-than-k) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0792-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1004-max-consecutive-ones-iii) |
 | [1150-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1150-check-if-a-number-is-majority-element-in-a-sorted-array) |
 | [1428-leftmost-column-with-at-least-a-one](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1428-leftmost-column-with-at-least-a-one) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -437,6 +440,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0487-max-consecutive-ones-ii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0487-max-consecutive-ones-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1004-max-consecutive-ones-iii) |
 | [1138-grumpy-bookstore-owner](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1138-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1358-number-of-substrings-containing-all-three-characters) |
