@@ -146,6 +146,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0226-invert-binary-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0427-construct-quad-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0427-construct-quad-tree) |
+| [0545-boundary-of-binary-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0545-boundary-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0700-search-in-a-binary-search-tree) |
@@ -223,6 +224,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0199-binary-tree-right-side-view](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0545-boundary-of-binary-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0545-boundary-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
@@ -287,6 +289,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0463-island-perimeter](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0463-island-perimeter) |
+| [0545-boundary-of-binary-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0545-boundary-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0547-number-of-provinces) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0589-n-ary-tree-preorder-traversal) |
