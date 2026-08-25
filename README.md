@@ -90,6 +90,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [1046-last-stone-weight](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1046-last-stone-weight) |
 | [1073-number-of-enclaves](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1073-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1094-car-pooling](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1094-car-pooling) |
 | [1117-as-far-from-land-as-possible](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1117-as-far-from-land-as-possible) |
 | [1138-grumpy-bookstore-owner](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1138-grumpy-bookstore-owner) |
 | [1150-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1150-check-if-a-number-is-majority-element-in-a-sorted-array) |
@@ -125,6 +126,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0560-subarray-sum-equals-k](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1004-max-consecutive-ones-iii) |
+| [1094-car-pooling](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1094-car-pooling) |
 ## Tree
 |  |
 | ------- |
@@ -567,6 +569,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0347-top-k-frequent-elements](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0912-sort-an-array](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0912-sort-an-array) |
+| [1094-car-pooling](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1094-car-pooling) |
 | [2126-destroying-asteroids](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/2126-destroying-asteroids) |
 ## Design
 |  |
@@ -640,6 +643,7 @@ This repo contains Leetcode questions solved by Kushal.
 | [0787-cheapest-flights-within-k-stops](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0912-sort-an-array](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1046-last-stone-weight) |
+| [1094-car-pooling](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1094-car-pooling) |
 | [1514-path-with-maximum-probability](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1514-path-with-maximum-probability) |
 ## Bucket Sort
 |  |
@@ -655,6 +659,7 @@ This repo contains Leetcode questions solved by Kushal.
 | ------- |
 | [0054-spiral-matrix](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0054-spiral-matrix) |
 | [0999-available-captures-for-rook](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/0999-available-captures-for-rook) |
+| [1094-car-pooling](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/1094-car-pooling) |
 | [2058-concatenation-of-array](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/2058-concatenation-of-array) |
 | [3360-stone-removal-game](https://github.com/kushalkumarcs99/DSA-Problem_Solving/tree/master/3360-stone-removal-game) |
 ## Recursion
