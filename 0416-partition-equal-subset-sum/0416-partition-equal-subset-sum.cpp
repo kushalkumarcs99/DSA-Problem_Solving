@@ -19,12 +19,7 @@ public:
     bool canPartition(vector<int>& nums) {
         int n = nums.size();
 
-        int total = 0;
-
-        for(int i=0;i<n;i++)
-        {
-            total += nums[i];
-        }
+        int total = accumulate(nums.begin(), nums.end(),0);
 
         if(total % 2 != 0) return false;
         int target = total / 2;
